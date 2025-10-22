@@ -1,8 +1,6 @@
 
 ---
 
-## 🎮 **GameZone_Neon — README.md**
-
 # 🎮 GameZone Neon
 
 **GameZone Neon** is a glowing futuristic arcade-style website built for gaming lovers.  
