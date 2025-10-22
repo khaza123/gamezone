@@ -1,9 +1,9 @@
 
 ---
 
-# 🎮 GameZone Neon
+# 🎮 GameZone
 
-**GameZone Neon** is a glowing futuristic arcade-style website built for gaming lovers.  
+**GameZone** is a glowing futuristic arcade-style website built for gaming lovers.  
 It features an energetic **purple-blue neon theme**, smooth animations, and an engaging interactive quiz — all in a fully responsive layout.
 
 ---
